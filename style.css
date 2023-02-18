@@ -21,7 +21,7 @@ body {
     justify-content: flex-end;
 }
 .header {
-    background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fpng.pngtree.com%2Fthumb_back%2Ffh260%2Fbackground%2F20200714%2Fpngtree-modern-double-color-futuristic-neon-background-image_351866.jpg&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffree-backgrounds&tbnid=v88-M_AJ_P6MCM&vet=12ahUKEwivt4PIkp79AhUez8kDHWswDRAQMygFegUIARDvAQ..i&docid=nrS8yXEy4V6zEM&w=555&h=260&q=background%20image&ved=2ahUKEwivt4PIkp79AhUez8kDHWswDRAQMygFegUIARDvAQ");
+    background-image: url("background.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
